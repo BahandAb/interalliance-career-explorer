@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 
-const ADMIN_PW      = "admin2026";
+const ADMIN_PW      = "interCareerPassword26";
 const COMPANIES_KEY = "ia_companies_v2";
 const SESSIONS_KEY  = "ia_sessions_v2";
 const OUTLOOK_KEY   = "ia_outlook_v2";
